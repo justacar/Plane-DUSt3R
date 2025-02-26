@@ -1,7 +1,7 @@
 #  Plane-DUSt3R: Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model
 ![Overview](assets/teaser.png)
 This repository contains the official implementation of the paper "Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model". Accepted by ICLR 2025.
-[[arXiv]](https://arxiv.org/)
+[[arXiv]](https://arxiv.org/abs/2502.16779)
 
 
 ## Overview
