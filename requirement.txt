@@ -1,9 +1,0 @@
-scipy
-mmcv==1.2.1
-numpy==1.26.4
-numba
-tensorboardX==2.1
-protobuf==3.20.*
-Shapely
-easydict==1.9
-open3d
