@@ -48,7 +48,7 @@ mkdir -p checkpoints/
 And download the plane-dust3r checkpoints from the following link:
 [plane-dust3r](https://drive.google.com/file/d/1sQ-IpRhfrPt4b1ZXhuPg2_dG1fnzo2SE/view?usp=sharing)
 
-And download the noncuboid-dust3r checkpoints from the following link:
+And download the noncuboid checkpoints from the following link:
 [noncuboid](https://drive.google.com/file/d/1DZnnOUMh6llVwhBvb-yo9ENVmN4o42x8/view?usp=sharing)
 
 ## Usage
