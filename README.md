@@ -109,7 +109,7 @@ python evaluate_planedust3r.py \
     --save_path /path/to/save/result \
     --device cuda
 ```
-The evaluation will create a folder in \$save_path\$ in the root directory, and save the results in `$save_path$/scene_number/room_id/`. If you dont want to save the results, you can set `--save_flag False`
+The evaluation will create a folder in `$save_path$` in the root directory, and save the results in `$save_path$/scene_number/room_id/`. If you dont want to save the results, you can set `--save_flag False`
 
 
 
