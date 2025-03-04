@@ -45,10 +45,12 @@ pip install -r requirements.txt
 ```
 mkdir -p checkpoints/
 ```
-And download the plane-dust3r checkpoints from the following link:
+And download the plane-dust3r checkpoint from the following google drive link:
 [plane-dust3r](https://drive.google.com/file/d/1sQ-IpRhfrPt4b1ZXhuPg2_dG1fnzo2SE/view?usp=sharing)
 
-And download the noncuboid checkpoints from the following link:
+The plane-dust3r checkpoint is also available on huggingface [huggingface](https://huggingface.co/yxuan/Plane-DUSt3R)
+
+And download the noncuboid checkpoints from the following google drive link:
 [noncuboid](https://drive.google.com/file/d/1DZnnOUMh6llVwhBvb-yo9ENVmN4o42x8/view?usp=sharing)
 
 ## Usage
